@@ -63,7 +63,7 @@
     "@babel/preset-typescript": "^7.3.3",
     "@types/jest": "^24.0.11",
     "@typescript-eslint/eslint-plugin": "^1.6.0",
-    "browserslist": "^4.5.4",
+    "browserslist": "^4.16.5",
     "doctoc": "^1.4.0",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-typescript": "^1.1.0",
